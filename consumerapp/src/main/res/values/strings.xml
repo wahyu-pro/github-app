@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+    <string name="user">User</string>
+    <string name="simple_title_text">Simple Title Text</string>
+</resources>

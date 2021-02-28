@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GithubAppUser</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="data_not_found">Data not found</string>
+    <string name="empty_followers">Empty followers</string>
+    <string name="empty_following">Empty following</string>
+    <string name="simple_title_text">Simple Title Text</string>
+    <string name="user">User</string>
+    <string name="email_example">wahyuwibowo@gmail.com</string>
+    <string name="save">Save</string>
+    <string name="_09_00">09.00</string>
+    <string name="message">Reminder is active on the hour</string>
+    <string name="set_time">Set time</string>
+    <string name="on_off">On/Off</string>
+    <string name="settings">Setting</string>
+    <string name="search_hint">search</string>
+    <string name="favorite">Favorite</string>
+    <string name="github">Github</string>
+    <string name="ex_name">Joey Tribbiani</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+</resources>
